@@ -4,9 +4,9 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+It is a sample project for my article titled Flutter: Navigation with Go Router on Medium. 
 
-A few resources to get you started if this is your first Flutter project:
+You can check out my article and if you have any questions or feedback, you can share it with me.
 
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
